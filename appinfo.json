@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "12ab6346-421d-4c13-a1e2-d0a7ae488520",
+    "appKeys": {},
+    "longName": "testApp1",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "testApp1",
+    "companyName": "jgossett1978",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
